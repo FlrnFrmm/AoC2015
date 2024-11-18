@@ -13,5 +13,3 @@ for i, c in enumerate(i):
         break
 
 print(res_2)
-
-     
